@@ -1,0 +1,3 @@
+rootProject.name = 'fucciTwo'
+
+include ':app'
